@@ -4,5 +4,5 @@ Pillow
 joblib
 click
 tqdm
-gradio
+gradio=3.50
 opencv-python
